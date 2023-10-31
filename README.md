@@ -2,7 +2,7 @@
 
 **`Digital Overlord (Developer & Designer)`**
 
-👋 Long Tang, preferably "L.T," is currently a third-year undergraduate student at the College of Charleston, majoring in Computing in the Arts with a concentration in digital media. L.T is a full-stack developer who loves to build fun projects that involves multiple programming languages and different frameworks. Additionally, he constantly designs and elevates user experiences through digital products using Adobe Creative Cloud and Figma!
+👋 Long Tang, preferably "L.T," is currently a fourth-year undergraduate student at the College of Charleston, majoring in Computing in the Arts with a concentration in digital media. L.T is a full-stack developer who loves to build fun projects that involves multiple programming languages and different frameworks. Additionally, he constantly designs and elevates user experiences through digital products using Adobe Creative Cloud and Figma!
 
 ---
 
