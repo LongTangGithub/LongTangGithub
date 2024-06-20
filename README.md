@@ -2,7 +2,7 @@
 
 **`Digital Overlord (Developer & Designer)`**
 
-👋 Long Tang, preferably "L.T," graduated from the College of Charleston, majoring in Computing in the Arts with a concentration in digital media. L.T is a full-stack developer who loves to build fun projects that involves multiple programming languages and different frameworks. Additionally, he constantly designs and elevates user experiences through digital products using Figma!
+👋 Long Tang, preferably "L.T," graduated from the College of Charleston, majoring in Computing in the Arts with a concentration in digital media. L.T is a full-stack developer who loves to build that involves web animations and 3D Web Apps.  Additionally, he loves to build simulation games on Roblox Studio, this is where he first started to love programming!
 
 ---
 
