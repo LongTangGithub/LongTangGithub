@@ -2,7 +2,11 @@
 
 **`Digital Overlord (Developer & Designer)`**
 
-👋 Long Tang, preferably "L.T," graduated from the College of Charleston, major in Computer Science with a concentration in digital media. L.T sit at the intersection of design and engineering — not as a compromise, but as a choice. Anyone can ship fast now. The cost shows up later — in the interactions that feel off, the details nobody thought through, the product that works but doesn't stick. What's left is quality — the gap between something that works and something that's genuinely well made.
+👋 Long Tang, preferably "L.T," graduated from the College of Charleston, major in Computer Science with a concentration in digital media. 
+
+L.T sit at the intersection of design and engineering — not as a compromise, but as a choice. Anyone can ship fast now. The cost shows up later — in the interactions that feel off, the details nobody thought through, the product that works but doesn't stick. 
+
+What's left is quality — the gap between something that works and something that's genuinely well made.
 
 ---
 
