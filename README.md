@@ -2,7 +2,7 @@
 
 **`Digital Overlord (Developer & Designer)`**
 
-👋 Long Tang, preferably "L.T," graduated from the College of Charleston, majoring in Computing in the Arts with a concentration in digital media. L.T is a full-stack developer who loves to build that involves web animations and 3D Web Apps.  Additionally, he loves to build simulation games on Roblox Studio, this is where he first started to love programming!
+👋 Long Tang, preferably "L.T," graduated from the College of Charleston, major in Computer Science with a concentration in digital media. L.T loves to build interfaces that involves web animations and 3D Web Apps.  Additionally, he loves to build simulation games on Roblox Studio, this is where he first started to love programming!
 
 ---
 
