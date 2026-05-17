@@ -34,7 +34,3 @@ What's left is quality — the gap between something that works and something th
 <br />
 
 ---
-
-###  Latest Medium Blog Posts
-
-#
